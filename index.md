@@ -6,3 +6,11 @@
 ```
 <p>Hello World!</p>
 ```
+
+### Steps to take:
+- [ ] Have Idea
+- [ ] Wireframe
+- [ ] Prototype
+- [ ] Code
+- [ ] Test
+- [ ] Review
